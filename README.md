@@ -50,3 +50,13 @@ Disclaimer : What you'll see in the mock-ups is all about positioning elements. 
 #### Contact
 
 ![Contact](assets/images/contact_page.png)
+
+
+### Photos and illustrations credits :
+
+All the photos used on my fictionnal website where found either on pexels or unsplash :
+
+Shout out to : 
+- [Amirali Mirhashemian](https://unsplash.com/photos/Tht2Sdwqey8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the good looking burgers.
+- [Pedro Marroquin](https://unsplash.com/photos/wOfr3hu7Kok?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the jumbotron pic'. 
+
