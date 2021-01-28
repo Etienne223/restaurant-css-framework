@@ -15,6 +15,7 @@ Etienne Lefèvre [@Etienne223](https://github.com/Etienne223)
 - CSS 3
 - HTML 5
 - Twitter Bootrsrap framework V 5.0
+- Font Awesome
 
 ### Mission
 
