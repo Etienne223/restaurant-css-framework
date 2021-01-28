@@ -59,6 +59,9 @@ Disclaimer : What you'll see in the mock-ups is all about positioning elements. 
 
 ![Contact](assets/images/contact_page.png)
 
+### Progression
+
+The progression can be seen clicking on this [link](https://etienne223.github.io/restaurant-css-framework/).
 
 ### Photos and illustrations credits :
 
