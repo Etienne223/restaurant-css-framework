@@ -72,4 +72,6 @@ Shout out to :
 - [Pedro Marroquin](https://unsplash.com/photos/wOfr3hu7Kok?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the jumbotron pic'.
 - [Vadim Markin ](https://unsplash.com/photos/BFtIlGdWKbk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the chef's picture.
 - [Matt Walsh](https://unsplash.com/photos/BFtIlGdWKbk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the question mark.
+- [Abby Kale](https://unsplash.com/photos/ZyhYzS-56JQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the potatoes.
+- [Louis Hansel](https://unsplash.com/photos/ZyhYzS-56JQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the nice fries.
 
