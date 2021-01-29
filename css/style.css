@@ -10,17 +10,26 @@ body {
     height: 100vh;
 }
 
-.navbar-expand-lg {
+.navbar {
     display: inline;
 }
 
-@media only screen and (max-width: 480px) {
+#miom img {
+    object-fit: cover;
+}
 
-    #hero_text {
-        display: none;
+@media only screen and (max-width: 600px) {
+
+    #miom img {
+        width: 150px;
+        height: 150px
     }
 
-    #slogan {
+}
+
+@media only screen and (max-width: 768px) {
+
+    #hero_text {
         display: none;
     }
 
