@@ -22,7 +22,6 @@ body {
     object-fit: cover;
 }
 
-
 #social_icon {
     font-size: 15px;
 }
@@ -30,7 +29,6 @@ body {
 /* ==========================
     Specific Media Queries
 ========================== */
-
 
 @media only screen and (max-width: 600px) {
 
