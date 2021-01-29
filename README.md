@@ -69,5 +69,7 @@ All the photos used on my fictionnal website where found either on pexels or uns
 
 Shout out to : 
 - [Amirali Mirhashemian](https://unsplash.com/photos/Tht2Sdwqey8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the good looking burgers.
-- [Pedro Marroquin](https://unsplash.com/photos/wOfr3hu7Kok?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the jumbotron pic'. 
+- [Pedro Marroquin](https://unsplash.com/photos/wOfr3hu7Kok?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the jumbotron pic'.
+- [Vadim Markin ](https://unsplash.com/photos/BFtIlGdWKbk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the chef's picture.
+- [Matt Walsh](https://unsplash.com/photos/BFtIlGdWKbk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the question mark.
 
