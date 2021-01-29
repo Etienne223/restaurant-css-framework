@@ -40,6 +40,10 @@ body {
     #form_pic img {
         display: none;
     }
+
+    #burger_love {
+        display: none;
+    }
 }
 
 @media only screen and (max-width: 768px) {
