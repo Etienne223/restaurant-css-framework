@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
 body {
     background-color: #000000;
     height: 100vh;
+    font-family: 'Poppins', sans-serif !important;
 }
 
 .jumbotron {
@@ -18,11 +21,20 @@ body {
     object-fit: cover;
 }
 
+#social_icon {
+    font-size: 15px;
+}
+
+/* ==========================
+    Specific Media Queries
+========================== */
+
+
 @media only screen and (max-width: 600px) {
 
     #miom img {
         width: 150px;
-        height: 150px
+        height: 150px;
     }
 
 }
