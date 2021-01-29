@@ -25,6 +25,10 @@ body {
     object-fit: cover;
 }
 
+#side_pic img {
+    object-fit: cover;
+}
+
 #social_icon {
     font-size: 15px;
 }
