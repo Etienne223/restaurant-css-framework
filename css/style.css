@@ -18,17 +18,10 @@ body {
     display: inline;
 }
 
-#miom img {
+.fit img {
     object-fit: cover;
 }
 
-#pic_cards img {
-    object-fit: cover;
-}
-
-#side_pic img {
-    object-fit: cover;
-}
 
 #social_icon {
     font-size: 15px;
