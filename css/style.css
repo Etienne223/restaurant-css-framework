@@ -21,6 +21,10 @@ body {
     object-fit: cover;
 }
 
+#pic_cards img {
+    object-fit: cover;
+}
+
 #social_icon {
     font-size: 15px;
 }
