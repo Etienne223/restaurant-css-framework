@@ -30,6 +30,11 @@ body {
     object-fit: cover;
 }
 
+a:hover {
+    color: tomato !important;
+    transition: .2s !important;
+}
+
 /* ==========================
     Specific Media Queries
 ========================== */
