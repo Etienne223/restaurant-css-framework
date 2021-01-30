@@ -1,10 +1,20 @@
+/* ==============
+    Typography
+============== */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
+
+/* ================
+        Global
+================= */
 
 body {
     background-color: #000000;
     height: 100vh;
     font-family: 'Poppins', sans-serif !important;
 }
+
+/* Jumbotron */
 
 .jumbotron {
     padding: 2rem 1rem;
@@ -14,16 +24,10 @@ body {
     height: 100vh;
 }
 
-.navbar {
-    display: inline;
-}
+/* Class to fit img into container */
 
 .fit img {
     object-fit: cover;
-}
-
-#social_icon {
-    font-size: 15px;
 }
 
 /* ==========================
@@ -52,4 +56,11 @@ body {
         display: none;
     }
 
+}
+
+
+@media only screen and (min-width: 1200px) {
+    #menu {
+        font-size: 15px !important;
+    }
 }
