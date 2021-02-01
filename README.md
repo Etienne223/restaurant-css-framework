@@ -76,3 +76,4 @@ Shout out to :
 - [Abby Kale](https://unsplash.com/photos/ZyhYzS-56JQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the potatoes.
 - [Louis Hansel](https://unsplash.com/photos/ZyhYzS-56JQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the nice fries.
 
+Disclaimer : Images quality might have been downgraded for the optimization.
