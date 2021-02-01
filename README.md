@@ -37,7 +37,7 @@ All of those pages have to include some particularities for instance welcome nee
 
 ### Objectives
 
-The first objectif of this exercice is to learn more about Twitter Bootstrap and how to use.
+The main objectif of this exercice is to learn more about Twitter Bootstrap and how to use.
 
 ### Mock-ups
 
