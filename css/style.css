@@ -38,6 +38,10 @@ a {
     color: #F8F9FA !important;
 }
 
+#pag_color a {
+    color: #212529 !important;
+}
+
 a:hover {
     color: tomato !important;
     transition: .2s !important;
