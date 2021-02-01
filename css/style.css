@@ -34,9 +34,17 @@ h1 {
     object-fit: cover;
 }
 
+a {
+    color: #F8F9FA !important;
+}
+
 a:hover {
     color: tomato !important;
     transition: .2s !important;
+}
+
+.icon_size {
+    font-size: 25px;
 }
 
 /* ==========================
