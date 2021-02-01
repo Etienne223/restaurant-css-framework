@@ -59,6 +59,10 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
 
+    .jumbotron {
+        height: 115vh;
+    }
+
     #miom img {
         width: 150px;
         height: 150px;
