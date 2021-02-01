@@ -34,6 +34,8 @@ h1 {
     object-fit: cover;
 }
 
+/* Specific link and icons */
+
 a {
     color: #F8F9FA !important;
 }
@@ -78,7 +80,6 @@ a:hover {
     }
 
 }
-
 
 @media only screen and (min-width: 1200px) {
     #menu {
