@@ -47,7 +47,7 @@ The main objectif of this exercice is to learn more about Twitter Bootstrap and 
 
 ### Mock-ups
 
-Disclaimer : What you'll see in the mock-ups is all about positioning elements. It doesn't give you the final look of the product. Box sizes, colors, images,... are not defined yet.
+_Disclaimer : What you'll see in the mock-ups is all about positioning elements. It doesn't give you the final look of the product. Box sizes, colors, images,... are not defined yet._
 
 #### Welcome
 
