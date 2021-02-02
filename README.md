@@ -88,43 +88,43 @@ Here are all the details about Lighthouse testing. First we got Lighthouse for t
 
 ##### Home
 
-![Home Lighthouse mobile](assets/images/Mob_Lighthouse_Home)
+![Home Lighthouse mobile](assets/images/Mob_Lighthouse_Home.png)
 
 ##### Menu
 
-![Menu Lightouse mobile](assets/images/Mob_Lighthouse_menu)
+![Menu Lightouse mobile](assets/images/Mob_Lighthouse_menu.png)
 
 ##### About
 
-![About Lightouse mobile](assets/images/Mob_Lighthouse_about)
+![About Lightouse mobile](assets/images/Mob_Lighthouse_about.png)
 
 ##### Pictures
 
-![Pictures Lightouse mobile](assets/images/Mob_Lighthouse_pic)
+![Pictures Lightouse mobile](assets/images/Mob_Lighthouse_pic.png)
 
 ##### Form
 
-![Form Lightouse mobile](assets/images/Mob_Lighthouse_form)
+![Form Lightouse mobile](assets/images/Mob_Lighthouse_form.png)
 
 #### Desktop 
 
 
 ##### Home
 
-![Home Lighthouse desktop](assets/images/Desk_Lighthouse_Home)
+![Home Lighthouse desktop](assets/images/Desk_Lighthouse_Home.png)
 
 ##### Menu
 
-![Menu Lightouse desktop](assets/images/Desk_Lighthouse_menu)
+![Menu Lightouse desktop](assets/images/Desk_Lighthouse_menu.png)
 
 ##### About
 
-![About Lightouse desktop](assets/images/Desk_Lighthouse_about)
+![About Lightouse desktop](assets/images/Desk_Lighthouse_about.png)
 
 ##### Pictures
 
-![Pictures Lightouse desktop](assets/images/Desk_Lighthouse_pic)
+![Pictures Lightouse desktop](assets/images/Desk_Lighthouse_pic.png)
 
 ##### Form
 
-![Form Lightouse desktop](assets/images/Desk_Lighthouse_form)
+![Form Lightouse desktop](assets/images/Desk_Lighthouse_form.png)
