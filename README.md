@@ -28,11 +28,11 @@ Mission start:**28 /01 /2021.**
 Mission end: **02/ 02/ 2021.**
 
 The mission is to create a ficitonnal restaurant's website using Bootstrap. The concent is our choice but we have to use Bootstrap for the layout. We had to first, create a mock-ups in order to have a conduct line to create the website. You'll find my mock-ups later in the read me. The methodology was to design mobile-first and then rearranging for the desktop version. On the website there are supposed to be 5 pages : 
-[x] Welcome 
-[x] Menu
-[x] Pictures
-[x] Restaurant
-[x] Contact
+1. [x] Welcome 
+2. [x] Menu
+3. [x] Pictures
+4. [x] Restaurant
+5. [x] Contact
 
 All of those pages have to include some particularities for instance welcome need a jumbotron, menu some tags, pictures a pagination,... All the details can be found [here](https://github.com/becodeorg/BXL-Swartz-4-27/blob/master/1.The-Field/6.Bootstrap/restaurant.adoc).
 
