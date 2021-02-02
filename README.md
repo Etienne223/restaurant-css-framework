@@ -24,6 +24,7 @@ Etienne Lefèvre [@Etienne223](https://github.com/Etienne223)
 ### Mission
 
 Mission start:**28 /01 /2021.**
+
 Mission end: **02/ 02/ 2021.**
 
 The mission is to create a ficitonnal restaurant's website using Bootstrap. The concent is our choice but we have to use Bootstrap for the layout. We had to first, create a mock-ups in order to have a conduct line to create the website. You'll find my mock-ups later in the read me. The methodology was to design mobile-first and then rearranging for the desktop version. On the website there are supposed to be 5 pages : 
