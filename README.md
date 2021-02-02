@@ -77,3 +77,54 @@ Shout out to :
 - [Louis Hansel](https://unsplash.com/photos/ZyhYzS-56JQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) for the nice fries.
 
 Disclaimer : Images quality might have been downgraded for the optimization.
+
+
+### Lighthouse 
+
+Here are all the details about Lighthouse testing. First we got Lighthouse for the mobile version and then for desktop.
+
+#### Mobile 
+
+
+##### Home
+
+![Home Lighthouse mobile](assets/images/Mob_Lighthouse_Home)
+
+##### Menu
+
+![Menu Lightouse mobile](assets/images/Mob_Lighthouse_menu)
+
+##### About
+
+![About Lightouse mobile](assets/images/Mob_Lighthouse_about)
+
+##### Pictures
+
+![Pictures Lightouse mobile](assets/images/Mob_Lighthouse_pic)
+
+##### Form
+
+![Form Lightouse mobile](assets/images/Mob_Lighthouse_form)
+
+#### Desktop 
+
+
+##### Home
+
+![Home Lighthouse desktop](assets/images/Desk_Lighthouse_Home)
+
+##### Menu
+
+![Menu Lightouse desktop](assets/images/Desk_Lighthouse_menu)
+
+##### About
+
+![About Lightouse desktop](assets/images/Desk_Lighthouse_about)
+
+##### Pictures
+
+![Pictures Lightouse desktop](assets/images/Desk_Lighthouse_pic)
+
+##### Form
+
+![Form Lightouse desktop](assets/images/Desk_Lighthouse_form)
